@@ -12,6 +12,7 @@ from prednet import *
 from utils import progress_bar
 from torch.autograd import Variable
 
+
 def main_cifar(model='PredNetBpD', circles=5, gpunum=1, Tied=False, weightDecay=1e-3, nesterov=False):
     use_cuda = True # torch.cuda.is_available()
     best_acc = 0  # best test accuracy
