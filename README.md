@@ -20,6 +20,3 @@ The project sets the stage for future exploration into how artificial intelligen
 
 ## Contributions
 Contributions to this project are welcome. Whether you're interested in improving the model, discussing neuroscience perspectives, or have other ideas, we'd like to hear from you.
-
----
-This project is licensed under the terms of the MIT license.
